@@ -1,5 +1,5 @@
 
-<img align="right" src="src/assets/logo-git.png" width="100px" alt="twitter">
+<img align="right" src="src/assets/logo-git.png" width="100px" alt="codenews">
 
 ## Tópicos 
 
