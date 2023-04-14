@@ -1,5 +1,5 @@
 
-<img align="right" src="src/assets/logo-git.png" width="60px" alt="twitter">
+<img align="right" src="src/assets/logo-git.png" width="100px" alt="twitter">
 
 ## Tópicos 
 
@@ -15,7 +15,7 @@
 
 ## Sobre o codenews
 
-"Codenews is a web application developed with ReactJS, Vite, and Typescript that allows users to view and interact with posts from various social networks in one place. With Codenews, users can stay up-to-date with the latest news and trends in their fields of interest, as well as interact with other people and their posts.
+Codenews is a web application developed with ReactJS, Vite, and Typescript that allows users to view and interact with posts from various social networks in one place. With Codenews, users can stay up-to-date with the latest news and trends in their fields of interest, as well as interact with other people and their posts.
 
 <br>
 
