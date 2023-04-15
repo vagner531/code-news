@@ -20,7 +20,7 @@ Codenews is a web application developed with ReactJS, Vite, and Typescript that 
 <br>
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/36738524/231910025-45672d26-d72e-423a-8834-28dc8d10a152.png" alt="Página inicial">
+   <img src="https://user-images.githubusercontent.com/36738524/232180582-dbb2511f-85ba-48a5-acfb-60d9375cafaf.png" alt="Página inicial">
 </p>
 
 ## Tecnologias
