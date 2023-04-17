@@ -41,7 +41,7 @@ git clone https://github.com/vagner531/code-news
 # ou use a opção de download.
 
 # Entre na pasta web com 
-cd codenews
+cd code-news
 
 # Instale as dependências
 npm install
