@@ -29,7 +29,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
 - [Reactjs](https://react.dev/)
 - [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <br>
 
